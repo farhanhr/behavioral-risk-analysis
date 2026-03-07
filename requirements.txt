@@ -1,3 +1,6 @@
 pandas
 streamlit
 matplotlib
+joblib
+xgboost
+plotly
